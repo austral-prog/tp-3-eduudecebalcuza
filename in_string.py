@@ -9,7 +9,7 @@ def check_vowels():
     print (f"Contiene e: {has_e}")
     print (f"Contiene i: {has_i}")
     print (f"Contiene o: {has_o}")
-    print (f"Contiene u: {has_u}")
+    print (f"Contiene p: {has_u}")
     # Código a implementar utilizando input.
 
 # Para verificar este ejercicio ejecutar el comando
